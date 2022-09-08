@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sol-web
 - 👀 I’m inerested in coding
-- 🌱 I’m currently learning C, Fundamentals of Information Security
+- 🌱 I’m currently learning C code, Fundamentals of Information Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
